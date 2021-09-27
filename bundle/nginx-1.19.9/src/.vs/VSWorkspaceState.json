@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\event",
+    "\\event\\modules",
+    "\\os",
+    "\\os\\unix",
+    "\\os\\win32"
+  ],
+  "SelectedNode": "\\os\\unix\\ngx_shmem.c",
+  "PreviewInSolutionExplorer": false
+}
